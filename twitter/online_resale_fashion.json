@@ -1,0 +1,998 @@
+[
+    {
+        "created_at": "Thu Oct 17 01:47:25 +0000 2019",
+        "id": 1184647070306721792,
+        "id_str": "1184647070306721792",
+        "full_text": "The resale of used clothing is something I think and care a lot about (environmental reasons but also fast fashion &amp; global inequality) and hope that ppl consider consigning/shopping 2nd hand more https://t.co/OPDN12jSAh",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            224
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/OPDN12jSAh",
+                    "expanded_url": "https://www.newyorker.com/magazine/2019/10/21/therealreals-online-luxury-consignment-shop",
+                    "display_url": "newyorker.com/magazine/2019/…",
+                    "indices": [
+                        201,
+                        224
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 893164583879409664,
+            "id_str": "893164583879409664"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Oct 16 01:07:55 +0000 2019",
+        "id": 1184274738576871425,
+        "id_str": "1184274738576871425",
+        "full_text": "@riotarms I resale online! Most often what I sell comes from my own closet or from thrift stores. Sustainable fashion IS fashionable and I am making decent cash on the side&amp; during summer when I’m not teaching 🤗\n(That’s an outfit for less than 4 USD!) https://t.co/09gmPRkd7i",
+        "truncated": false,
+        "display_text_range": [
+            10,
+            255
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "riotarms",
+                    "name": "RiotArms // Khajiit is HONKING 🦢",
+                    "id": 923507630328254465,
+                    "id_str": "923507630328254465",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1184274617512402945,
+                    "id_str": "1184274617512402945",
+                    "indices": [
+                        256,
+                        279
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EG9jfXVWoAEElN0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EG9jfXVWoAEElN0.jpg",
+                    "url": "https://t.co/09gmPRkd7i",
+                    "display_url": "pic.twitter.com/09gmPRkd7i",
+                    "expanded_url": "https://twitter.com/HaleyAshtin/status/1184274738576871425/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1184274617512402945,
+                    "id_str": "1184274617512402945",
+                    "indices": [
+                        256,
+                        279
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EG9jfXVWoAEElN0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EG9jfXVWoAEElN0.jpg",
+                    "url": "https://t.co/09gmPRkd7i",
+                    "display_url": "pic.twitter.com/09gmPRkd7i",
+                    "expanded_url": "https://twitter.com/HaleyAshtin/status/1184274738576871425/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1184274617529225219,
+                    "id_str": "1184274617529225219",
+                    "indices": [
+                        256,
+                        279
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EG9jfXZXUAMhOO6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EG9jfXZXUAMhOO6.jpg",
+                    "url": "https://t.co/09gmPRkd7i",
+                    "display_url": "pic.twitter.com/09gmPRkd7i",
+                    "expanded_url": "https://twitter.com/HaleyAshtin/status/1184274738576871425/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1184274617516593152,
+                    "id_str": "1184274617516593152",
+                    "indices": [
+                        256,
+                        279
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EG9jfXWWkAAB5Xj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EG9jfXWWkAAB5Xj.jpg",
+                    "url": "https://t.co/09gmPRkd7i",
+                    "display_url": "pic.twitter.com/09gmPRkd7i",
+                    "expanded_url": "https://twitter.com/HaleyAshtin/status/1184274738576871425/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1184266788281798656,
+        "in_reply_to_status_id_str": "1184266788281798656",
+        "in_reply_to_user_id": 923507630328254465,
+        "in_reply_to_user_id_str": "923507630328254465",
+        "in_reply_to_screen_name": "riotarms",
+        "user": {
+            "id": 829927236,
+            "id_str": "829927236"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Oct 15 18:02:03 +0000 2019",
+        "id": 1184167565871996928,
+        "id_str": "1184167565871996928",
+        "full_text": "To shop all the latest fashion finds, visit the website at https://t.co/aVO5WN4CtT and use promo code “WELCOME” for 10 percent off your online purchase. Go in-store at 3957 Main Street and don’t forget to follow @ShamelessResale on Instagram https://t.co/IOZGhbtW18 #sponsored",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            276
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "sponsored",
+                    "indices": [
+                        266,
+                        276
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ShamelessResale",
+                    "name": "Shameless Resale",
+                    "id": 963879909155258368,
+                    "id_str": "963879909155258368",
+                    "indices": [
+                        212,
+                        228
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/aVO5WN4CtT",
+                    "expanded_url": "http://ow.ly/e6Ij50wzS6j",
+                    "display_url": "ow.ly/e6Ij50wzS6j",
+                    "indices": [
+                        59,
+                        82
+                    ]
+                },
+                {
+                    "url": "https://t.co/IOZGhbtW18",
+                    "expanded_url": "http://ow.ly/fhpX50wzS6i",
+                    "display_url": "ow.ly/fhpX50wzS6i",
+                    "indices": [
+                        242,
+                        265
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 14604658,
+            "id_str": "14604658"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Oct 12 14:45:07 +0000 2019",
+        "id": 1183030844715425793,
+        "id_str": "1183030844715425793",
+        "full_text": "A pair of trainers dubbed “Jesus Shoes” that contain holy water are currently selling for as much as £3,000 on resale website StockX.\nThey were released online on Tuesday and initially sold out in minutes: https://t.co/3AiCLHURTq #BridgeNews #latestNews #funny",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            260
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BridgeNews",
+                    "indices": [
+                        230,
+                        241
+                    ]
+                },
+                {
+                    "text": "latestNews",
+                    "indices": [
+                        242,
+                        253
+                    ]
+                },
+                {
+                    "text": "funny",
+                    "indices": [
+                        254,
+                        260
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/3AiCLHURTq",
+                    "expanded_url": "http://ow.ly/pWss30pHW3k",
+                    "display_url": "ow.ly/pWss30pHW3k",
+                    "indices": [
+                        206,
+                        229
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1179701032147996672,
+            "id_str": "1179701032147996672"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Oct 11 22:24:48 +0000 2019",
+        "id": 1182784140166533121,
+        "id_str": "1182784140166533121",
+        "full_text": "Can #fashion brands use online platforms to maintain resale prices? Prices and the law: Where are we in maintaining and imposing resale prices on buyers – and will #Brexit make any difference https://t.co/MyRBzJGGVx",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            215
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "fashion",
+                    "indices": [
+                        4,
+                        12
+                    ]
+                },
+                {
+                    "text": "Brexit",
+                    "indices": [
+                        164,
+                        171
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/MyRBzJGGVx",
+                    "expanded_url": "http://ow.ly/pKVx30pBbqQ",
+                    "display_url": "ow.ly/pKVx30pBbqQ",
+                    "indices": [
+                        192,
+                        215
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4653577936,
+            "id_str": "4653577936"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Oct 11 21:26:17 +0000 2019",
+        "id": 1182769413231001600,
+        "id_str": "1182769413231001600",
+        "full_text": "RT @100rabhJaiHind: @noconversion holy water in shoes worth $3000 sold in minutes\n\nread here :\n\nhttps://t.co/lRpfLKM6lI \n\n&amp; in $4000 here…",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            142
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "100rabhJaiHind",
+                    "name": "Dr. Asahishnu",
+                    "id": 1330726118,
+                    "id_str": "1330726118",
+                    "indices": [
+                        3,
+                        18
+                    ]
+                },
+                {
+                    "screen_name": "noconversion",
+                    "name": "No Conversion",
+                    "id": 2823192415,
+                    "id_str": "2823192415",
+                    "indices": [
+                        20,
+                        33
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/lRpfLKM6lI",
+                    "expanded_url": "https://www.independent.co.uk/life-style/fashion/jesus-shoes-trainers-holy-water-nike-air-max-97-sold-out-mschf-online-shopping-a9149921.html",
+                    "display_url": "independent.co.uk/life-style/fas…",
+                    "indices": [
+                        96,
+                        119
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4794534938,
+            "id_str": "4794534938"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Oct 11 08:05:09 +0000 2019",
+            "id": 1182567803112456192,
+            "id_str": "1182567803112456192",
+            "full_text": "@noconversion holy water in shoes worth $3000 sold in minutes\n\nread here :\n\nhttps://t.co/lRpfLKM6lI \n\n&amp; in $4000 here\n\nhttps://t.co/aeY0mEkHob",
+            "truncated": false,
+            "display_text_range": [
+                14,
+                146
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "noconversion",
+                        "name": "No Conversion",
+                        "id": 2823192415,
+                        "id_str": "2823192415",
+                        "indices": [
+                            0,
+                            13
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/lRpfLKM6lI",
+                        "expanded_url": "https://www.independent.co.uk/life-style/fashion/jesus-shoes-trainers-holy-water-nike-air-max-97-sold-out-mschf-online-shopping-a9149921.html",
+                        "display_url": "independent.co.uk/life-style/fas…",
+                        "indices": [
+                            76,
+                            99
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/aeY0mEkHob",
+                        "expanded_url": "https://www.cbsnews.com/news/nike-jesus-shoes-with-holy-water-in-the-soles-are-air-max-97-sold-by-mschf-resale-selling-for-4000/",
+                        "display_url": "cbsnews.com/news/nike-jesu…",
+                        "indices": [
+                            123,
+                            146
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1182532740538875904,
+            "in_reply_to_status_id_str": "1182532740538875904",
+            "in_reply_to_user_id": 2823192415,
+            "in_reply_to_user_id_str": "2823192415",
+            "in_reply_to_screen_name": "noconversion",
+            "user": {
+                "id": 1330726118,
+                "id_str": "1330726118"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Oct 11 10:19:43 +0000 2019",
+        "id": 1182601664525680641,
+        "id_str": "1182601664525680641",
+        "full_text": "RT @BurberryCorp: As part of our vision for a more #sustainablefashion industry, we have partnered with luxury online consignment store @th…",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "sustainablefashion",
+                    "indices": [
+                        51,
+                        70
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BurberryCorp",
+                    "name": "Burberry Corporate",
+                    "id": 2884876711,
+                    "id_str": "2884876711",
+                    "indices": [
+                        3,
+                        16
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.google.com\" rel=\"nofollow\">Amber_Twemlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1097654274341904385,
+            "id_str": "1097654274341904385"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Oct 07 10:32:51 +0000 2019",
+            "id": 1181155420322308098,
+            "id_str": "1181155420322308098",
+            "full_text": "As part of our vision for a more #sustainablefashion industry, we have partnered with luxury online consignment store @therealreal to support the #circulareconomy and extend the life of fashion through resale. https://t.co/fSYR6Jzjnn Resell. Reuse. #ReBurberry https://t.co/8KMOHJKaHN",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                260
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "sustainablefashion",
+                        "indices": [
+                            33,
+                            52
+                        ]
+                    },
+                    {
+                        "text": "circulareconomy",
+                        "indices": [
+                            146,
+                            162
+                        ]
+                    },
+                    {
+                        "text": "ReBurberry",
+                        "indices": [
+                            249,
+                            260
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "therealreal",
+                        "name": "The RealReal",
+                        "id": 304462223,
+                        "id_str": "304462223",
+                        "indices": [
+                            118,
+                            130
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/fSYR6Jzjnn",
+                        "expanded_url": "http://brby.co/8b5",
+                        "display_url": "brby.co/8b5",
+                        "indices": [
+                            210,
+                            233
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1181155415377219584,
+                        "id_str": "1181155415377219584",
+                        "indices": [
+                            261,
+                            284
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EGROl54WkAAAAMr.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EGROl54WkAAAAMr.jpg",
+                        "url": "https://t.co/8KMOHJKaHN",
+                        "display_url": "pic.twitter.com/8KMOHJKaHN",
+                        "expanded_url": "https://twitter.com/BurberryCorp/status/1181155420322308098/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1152,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1181155415377219584,
+                        "id_str": "1181155415377219584",
+                        "indices": [
+                            261,
+                            284
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EGROl54WkAAAAMr.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EGROl54WkAAAAMr.jpg",
+                        "url": "https://t.co/8KMOHJKaHN",
+                        "display_url": "pic.twitter.com/8KMOHJKaHN",
+                        "expanded_url": "https://twitter.com/BurberryCorp/status/1181155420322308098/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1152,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2884876711,
+                "id_str": "2884876711"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 6,
+            "favorite_count": 9,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Oct 11 08:05:09 +0000 2019",
+        "id": 1182567803112456192,
+        "id_str": "1182567803112456192",
+        "full_text": "@noconversion holy water in shoes worth $3000 sold in minutes\n\nread here :\n\nhttps://t.co/lRpfLKM6lI \n\n&amp; in $4000 here\n\nhttps://t.co/aeY0mEkHob",
+        "truncated": false,
+        "display_text_range": [
+            14,
+            146
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "noconversion",
+                    "name": "No Conversion",
+                    "id": 2823192415,
+                    "id_str": "2823192415",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/lRpfLKM6lI",
+                    "expanded_url": "https://www.independent.co.uk/life-style/fashion/jesus-shoes-trainers-holy-water-nike-air-max-97-sold-out-mschf-online-shopping-a9149921.html",
+                    "display_url": "independent.co.uk/life-style/fas…",
+                    "indices": [
+                        76,
+                        99
+                    ]
+                },
+                {
+                    "url": "https://t.co/aeY0mEkHob",
+                    "expanded_url": "https://www.cbsnews.com/news/nike-jesus-shoes-with-holy-water-in-the-soles-are-air-max-97-sold-by-mschf-resale-selling-for-4000/",
+                    "display_url": "cbsnews.com/news/nike-jesu…",
+                    "indices": [
+                        123,
+                        146
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1182532740538875904,
+        "in_reply_to_status_id_str": "1182532740538875904",
+        "in_reply_to_user_id": 2823192415,
+        "in_reply_to_user_id_str": "2823192415",
+        "in_reply_to_screen_name": "noconversion",
+        "user": {
+            "id": 1330726118,
+            "id_str": "1330726118"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Oct 10 23:01:14 +0000 2019",
+        "id": 1182430919711481857,
+        "id_str": "1182430919711481857",
+        "full_text": "To shop all the latest fashion finds, visit the website at https://t.co/1XsyhTEFt8 and use promo code “WELCOME” for 10 percent off your online purchase. Go in-store at 3957 Main Street and don’t forget to follow @ShamelessResale on Instagram https://t.co/sfhdHS21pK #sponsored",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            276
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "sponsored",
+                    "indices": [
+                        266,
+                        276
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ShamelessResale",
+                    "name": "Shameless Resale",
+                    "id": 963879909155258368,
+                    "id_str": "963879909155258368",
+                    "indices": [
+                        212,
+                        228
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/1XsyhTEFt8",
+                    "expanded_url": "http://ow.ly/bMNO50wzRUO",
+                    "display_url": "ow.ly/bMNO50wzRUO",
+                    "indices": [
+                        59,
+                        82
+                    ]
+                },
+                {
+                    "url": "https://t.co/sfhdHS21pK",
+                    "expanded_url": "http://ow.ly/GoaV50wzRUJ",
+                    "display_url": "ow.ly/GoaV50wzRUJ",
+                    "indices": [
+                        242,
+                        265
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 14604658,
+            "id_str": "14604658"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }
+]

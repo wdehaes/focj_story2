@@ -1,0 +1,2116 @@
+[
+    {
+        "created_at": "Sat Oct 19 20:38:13 +0000 2019",
+        "id": 1185656421238673410,
+        "id_str": "1185656421238673410",
+        "full_text": "@SamitoFPS You actually have to stop the circlejerk around Moira’s abilities holy shit dude. It’s not even funny anymore it’s secondhand embarrassing to see, notably you, get so worked up for the past several weeks over her design/mechanics.",
+        "truncated": false,
+        "display_text_range": [
+            11,
+            241
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "SamitoFPS",
+                    "name": "Sammy D ✈️ BLIZZCON SOON",
+                    "id": 3401806035,
+                    "id_str": "3401806035",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1185593809230544897,
+        "in_reply_to_status_id_str": "1185593809230544897",
+        "in_reply_to_user_id": 3401806035,
+        "in_reply_to_user_id_str": "3401806035",
+        "in_reply_to_screen_name": "SamitoFPS",
+        "user": {
+            "id": 1074081053671940096,
+            "id_str": "1074081053671940096"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Oct 19 19:56:45 +0000 2019",
+        "id": 1185645983851581445,
+        "id_str": "1185645983851581445",
+        "full_text": "RT @kare11: KT Lyons Design in Maple Grove has created a one-of-a-kind piece to raise money for breast cancer research. https://t.co/iAu9Qf…",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "kare11",
+                    "name": "KARE 11",
+                    "id": 13001192,
+                    "id_str": "13001192",
+                    "indices": [
+                        3,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 834672494,
+            "id_str": "834672494"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Oct 19 19:44:04 +0000 2019",
+            "id": 1185642792892149760,
+            "id_str": "1185642792892149760",
+            "full_text": "KT Lyons Design in Maple Grove has created a one-of-a-kind piece to raise money for breast cancer research. https://t.co/iAu9Qfz6k9",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                131
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/iAu9Qfz6k9",
+                        "expanded_url": "https://www.kare11.com/article/money/business/behind-the-business/reclaiming-beautiful-maple-grove-business-transforms-secondhand-furniture/89-1865a182-ece5-4ceb-9592-e8d6f1570679",
+                        "display_url": "kare11.com/article/money/…",
+                        "indices": [
+                            108,
+                            131
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 13001192,
+                "id_str": "13001192"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Oct 19 19:44:04 +0000 2019",
+        "id": 1185642792892149760,
+        "id_str": "1185642792892149760",
+        "full_text": "KT Lyons Design in Maple Grove has created a one-of-a-kind piece to raise money for breast cancer research. https://t.co/iAu9Qfz6k9",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            131
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/iAu9Qfz6k9",
+                    "expanded_url": "https://www.kare11.com/article/money/business/behind-the-business/reclaiming-beautiful-maple-grove-business-transforms-secondhand-furniture/89-1865a182-ece5-4ceb-9592-e8d6f1570679",
+                    "display_url": "kare11.com/article/money/…",
+                    "indices": [
+                        108,
+                        131
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 13001192,
+            "id_str": "13001192"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Oct 19 13:00:14 +0000 2019",
+        "id": 1185541165434716160,
+        "id_str": "1185541165434716160",
+        "full_text": "Først på listen - @noedhjaelp ’ Gemmeren’ på #nørrebro #genbrugerguld #tøjspild \nAOK guider dig til succesfuld genbrugsshopping. https://t.co/LIYGl8mvz5",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            152
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nørrebro",
+                    "indices": [
+                        45,
+                        54
+                    ]
+                },
+                {
+                    "text": "genbrugerguld",
+                    "indices": [
+                        55,
+                        69
+                    ]
+                },
+                {
+                    "text": "tøjspild",
+                    "indices": [
+                        70,
+                        79
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "noedhjaelp",
+                    "name": "Folkekirkens Nødhjælp",
+                    "id": 71518259,
+                    "id_str": "71518259",
+                    "indices": [
+                        18,
+                        29
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/LIYGl8mvz5",
+                    "expanded_url": "https://www.berlingske.dk/design-mode-og-arkitektur/de-seks-secondhand-butikker-du-skal-kende",
+                    "display_url": "berlingske.dk/design-mode-og…",
+                    "indices": [
+                        129,
+                        152
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "da",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2921901789,
+            "id_str": "2921901789"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "da"
+    },
+    {
+        "created_at": "Thu Oct 17 11:21:05 +0000 2019",
+        "id": 1184791437931696134,
+        "id_str": "1184791437931696134",
+        "full_text": "JUST ARRIVED! The Vitra ID Trim unites design, ergonomics, and functionality in a manner that means it can meet the demands of any contemporary working environment.\n\n🛒 https://t.co/WzWOgagjoA\n\n#officechairs #secondhand #vitra #IDTrim #ergonomic #12monthwarranty #freeUKdelivery https://t.co/ezK2kmVsak",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            277
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "officechairs",
+                    "indices": [
+                        193,
+                        206
+                    ]
+                },
+                {
+                    "text": "secondhand",
+                    "indices": [
+                        207,
+                        218
+                    ]
+                },
+                {
+                    "text": "vitra",
+                    "indices": [
+                        219,
+                        225
+                    ]
+                },
+                {
+                    "text": "IDTrim",
+                    "indices": [
+                        226,
+                        233
+                    ]
+                },
+                {
+                    "text": "ergonomic",
+                    "indices": [
+                        234,
+                        244
+                    ]
+                },
+                {
+                    "text": "12monthwarranty",
+                    "indices": [
+                        245,
+                        261
+                    ]
+                },
+                {
+                    "text": "freeUKdelivery",
+                    "indices": [
+                        262,
+                        277
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/WzWOgagjoA",
+                    "expanded_url": "http://bit.ly/2VQXcIg",
+                    "display_url": "bit.ly/2VQXcIg",
+                    "indices": [
+                        168,
+                        191
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1184791410173718529,
+                    "id_str": "1184791410173718529",
+                    "indices": [
+                        278,
+                        301
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EHE5gqBWsAEgj-z.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EHE5gqBWsAEgj-z.png",
+                    "url": "https://t.co/ezK2kmVsak",
+                    "display_url": "pic.twitter.com/ezK2kmVsak",
+                    "expanded_url": "https://twitter.com/2ndhndUK/status/1184791437931696134/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 900,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 900,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1184791410173718529,
+                    "id_str": "1184791410173718529",
+                    "indices": [
+                        278,
+                        301
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EHE5gqBWsAEgj-z.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EHE5gqBWsAEgj-z.png",
+                    "url": "https://t.co/ezK2kmVsak",
+                    "display_url": "pic.twitter.com/ezK2kmVsak",
+                    "expanded_url": "https://twitter.com/2ndhndUK/status/1184791437931696134/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 900,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 900,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 707911705754468352,
+            "id_str": "707911705754468352"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Oct 17 09:35:05 +0000 2019",
+        "id": 1184764760790913024,
+        "id_str": "1184764760790913024",
+        "full_text": "J'ai demandé un diffuseur d'huile essentielles pour Noel ... of course j'en cherche un de seconde main à mettre sur la liste à donner à mon petit mari 🤣 Un avec un joli design un peu vintage comme le Phytosun pour la déco. Une d'entre vous à ça sous le coude ? #secondhand https://t.co/DJkpXeEZFr",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            272
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "secondhand",
+                    "indices": [
+                        261,
+                        272
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1184764736577196034,
+                    "id_str": "1184764736577196034",
+                    "indices": [
+                        273,
+                        296
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EHEhQDIX0AIAqkN.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EHEhQDIX0AIAqkN.jpg",
+                    "url": "https://t.co/DJkpXeEZFr",
+                    "display_url": "pic.twitter.com/DJkpXeEZFr",
+                    "expanded_url": "https://twitter.com/Anais_Penelope/status/1184764760790913024/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 400,
+                            "h": 400,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 400,
+                            "h": 400,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 400,
+                            "h": 400,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1184764736577196034,
+                    "id_str": "1184764736577196034",
+                    "indices": [
+                        273,
+                        296
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EHEhQDIX0AIAqkN.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EHEhQDIX0AIAqkN.jpg",
+                    "url": "https://t.co/DJkpXeEZFr",
+                    "display_url": "pic.twitter.com/DJkpXeEZFr",
+                    "expanded_url": "https://twitter.com/Anais_Penelope/status/1184764760790913024/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 400,
+                            "h": 400,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 400,
+                            "h": 400,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 400,
+                            "h": 400,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/EHEhQDIX0AIAqkN.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 456809097,
+            "id_str": "456809097"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+    },
+    {
+        "created_at": "Wed Oct 16 21:21:35 +0000 2019",
+        "id": 1184580171065638913,
+        "id_str": "1184580171065638913",
+        "full_text": "@megankatenelson They design these Vegas hotel-casinos so you can’t find your way out. Horrible! \n\nBut where else in modern life can you be exposed to so much secondhand smoke, amirite? It’s like my 1970s childhood.",
+        "truncated": false,
+        "display_text_range": [
+            17,
+            215
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "megankatenelson",
+                    "name": "Dr. Megan Kate Nelson 🍸",
+                    "id": 561635737,
+                    "id_str": "561635737",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1184579313695428608,
+        "in_reply_to_status_id_str": "1184579313695428608",
+        "in_reply_to_user_id": 561635737,
+        "in_reply_to_user_id_str": "561635737",
+        "in_reply_to_screen_name": "megankatenelson",
+        "user": {
+            "id": 458643150,
+            "id_str": "458643150"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Oct 16 00:04:45 +0000 2019",
+        "id": 1184258845444431873,
+        "id_str": "1184258845444431873",
+        "full_text": "Recommend✨\nISSEY MIYAKE MEN A-POC Design Weaved Pants Size 1(K-69376)\n\nOur site*\nhttps://t.co/vXsboBzRdn\n\neBay*\nhttps://t.co/WCDA7zik6u\n\nCheck it!*\n#playful \n#ebay \n#ebaystore\n#Isseymiyake \n#isseymiyakemen\n#isseymiyakejapan\n#pants\n#madeinjapan\n#secondhand \n#secondhandclothes https://t.co/QQ9moXNpFp",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            275
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "playful",
+                    "indices": [
+                        148,
+                        156
+                    ]
+                },
+                {
+                    "text": "ebay",
+                    "indices": [
+                        158,
+                        163
+                    ]
+                },
+                {
+                    "text": "ebaystore",
+                    "indices": [
+                        165,
+                        175
+                    ]
+                },
+                {
+                    "text": "Isseymiyake",
+                    "indices": [
+                        176,
+                        188
+                    ]
+                },
+                {
+                    "text": "isseymiyakemen",
+                    "indices": [
+                        190,
+                        205
+                    ]
+                },
+                {
+                    "text": "isseymiyakejapan",
+                    "indices": [
+                        206,
+                        223
+                    ]
+                },
+                {
+                    "text": "pants",
+                    "indices": [
+                        224,
+                        230
+                    ]
+                },
+                {
+                    "text": "madeinjapan",
+                    "indices": [
+                        231,
+                        243
+                    ]
+                },
+                {
+                    "text": "secondhand",
+                    "indices": [
+                        244,
+                        255
+                    ]
+                },
+                {
+                    "text": "secondhandclothes",
+                    "indices": [
+                        257,
+                        275
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/vXsboBzRdn",
+                    "expanded_url": "https://www.playful-dc.com/en/products/details74645.html",
+                    "display_url": "playful-dc.com/en/products/de…",
+                    "indices": [
+                        81,
+                        104
+                    ]
+                },
+                {
+                    "url": "https://t.co/WCDA7zik6u",
+                    "expanded_url": "https://www.ebay.com/itm/333297310087",
+                    "display_url": "ebay.com/itm/3332973100…",
+                    "indices": [
+                        112,
+                        135
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1184258627651039234,
+                    "id_str": "1184258627651039234",
+                    "indices": [
+                        276,
+                        299
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EG9U8odU8AIMOzy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EG9U8odU8AIMOzy.jpg",
+                    "url": "https://t.co/QQ9moXNpFp",
+                    "display_url": "pic.twitter.com/QQ9moXNpFp",
+                    "expanded_url": "https://twitter.com/playfulOverseas/status/1184258845444431873/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 600,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 600,
+                            "h": 600,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 600,
+                            "h": 600,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1184258627651039234,
+                    "id_str": "1184258627651039234",
+                    "indices": [
+                        276,
+                        299
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EG9U8odU8AIMOzy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EG9U8odU8AIMOzy.jpg",
+                    "url": "https://t.co/QQ9moXNpFp",
+                    "display_url": "pic.twitter.com/QQ9moXNpFp",
+                    "expanded_url": "https://twitter.com/playfulOverseas/status/1184258845444431873/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 600,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 600,
+                            "h": 600,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 600,
+                            "h": 600,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1184258627646803969,
+                    "id_str": "1184258627646803969",
+                    "indices": [
+                        276,
+                        299
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EG9U8ocUUAEtHoL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EG9U8ocUUAEtHoL.jpg",
+                    "url": "https://t.co/QQ9moXNpFp",
+                    "display_url": "pic.twitter.com/QQ9moXNpFp",
+                    "expanded_url": "https://twitter.com/playfulOverseas/status/1184258845444431873/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1184258627999162368,
+                    "id_str": "1184258627999162368",
+                    "indices": [
+                        276,
+                        299
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EG9U8pwU4AAQLe3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EG9U8pwU4AAQLe3.jpg",
+                    "url": "https://t.co/QQ9moXNpFp",
+                    "display_url": "pic.twitter.com/QQ9moXNpFp",
+                    "expanded_url": "https://twitter.com/playfulOverseas/status/1184258845444431873/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 600,
+                            "h": 600,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 600,
+                            "h": 600,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 600,
+                            "h": 600,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1184258628070436864,
+                    "id_str": "1184258628070436864",
+                    "indices": [
+                        276,
+                        299
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EG9U8qBUcAAeGPy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EG9U8qBUcAAeGPy.jpg",
+                    "url": "https://t.co/QQ9moXNpFp",
+                    "display_url": "pic.twitter.com/QQ9moXNpFp",
+                    "expanded_url": "https://twitter.com/playfulOverseas/status/1184258845444431873/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 600,
+                            "h": 600,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 600,
+                            "h": 600,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 600,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1081419167293616129,
+            "id_str": "1081419167293616129"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Oct 15 14:34:06 +0000 2019",
+        "id": 1184115236967550976,
+        "id_str": "1184115236967550976",
+        "full_text": "✅ Resale apartment for sale in Los Alcázares\n\n💰139,000€\n📍Costa Calida\n🏡 2 Bedrooms &amp; 1 Bathroom\n\n▶️ https://t.co/ZL6CjSqhWQ\n.\n\n#resale #apartment #losalcazares #secondhand #newhouse #home #interiordesign #property #maisonette #design #realestate #interior #housegoals https://t.co/c849WHH5KZ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            271
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "resale",
+                    "indices": [
+                        131,
+                        138
+                    ]
+                },
+                {
+                    "text": "apartment",
+                    "indices": [
+                        139,
+                        149
+                    ]
+                },
+                {
+                    "text": "losalcazares",
+                    "indices": [
+                        150,
+                        163
+                    ]
+                },
+                {
+                    "text": "secondhand",
+                    "indices": [
+                        164,
+                        175
+                    ]
+                },
+                {
+                    "text": "newhouse",
+                    "indices": [
+                        176,
+                        185
+                    ]
+                },
+                {
+                    "text": "home",
+                    "indices": [
+                        186,
+                        191
+                    ]
+                },
+                {
+                    "text": "interiordesign",
+                    "indices": [
+                        192,
+                        207
+                    ]
+                },
+                {
+                    "text": "property",
+                    "indices": [
+                        208,
+                        217
+                    ]
+                },
+                {
+                    "text": "maisonette",
+                    "indices": [
+                        218,
+                        229
+                    ]
+                },
+                {
+                    "text": "design",
+                    "indices": [
+                        230,
+                        237
+                    ]
+                },
+                {
+                    "text": "realestate",
+                    "indices": [
+                        238,
+                        249
+                    ]
+                },
+                {
+                    "text": "interior",
+                    "indices": [
+                        250,
+                        259
+                    ]
+                },
+                {
+                    "text": "housegoals",
+                    "indices": [
+                        260,
+                        271
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ZL6CjSqhWQ",
+                    "expanded_url": "https://bit.ly/32dB397",
+                    "display_url": "bit.ly/32dB397",
+                    "indices": [
+                        104,
+                        127
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1184115229455568896,
+                    "id_str": "1184115229455568896",
+                    "indices": [
+                        272,
+                        295
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EG7ShwjUUAA_fca.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EG7ShwjUUAA_fca.jpg",
+                    "url": "https://t.co/c849WHH5KZ",
+                    "display_url": "pic.twitter.com/c849WHH5KZ",
+                    "expanded_url": "https://twitter.com/promediahomes/status/1184115236967550976/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 543,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 767,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 767,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1184115229455568896,
+                    "id_str": "1184115229455568896",
+                    "indices": [
+                        272,
+                        295
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EG7ShwjUUAA_fca.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EG7ShwjUUAA_fca.jpg",
+                    "url": "https://t.co/c849WHH5KZ",
+                    "display_url": "pic.twitter.com/c849WHH5KZ",
+                    "expanded_url": "https://twitter.com/promediahomes/status/1184115236967550976/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 543,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 767,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 767,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1184115229338284037,
+                    "id_str": "1184115229338284037",
+                    "indices": [
+                        272,
+                        295
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EG7ShwHWsAUoXqQ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EG7ShwHWsAUoXqQ.jpg",
+                    "url": "https://t.co/c849WHH5KZ",
+                    "display_url": "pic.twitter.com/c849WHH5KZ",
+                    "expanded_url": "https://twitter.com/promediahomes/status/1184115236967550976/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 960,
+                            "h": 767,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 543,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 767,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1184115229342482432,
+                    "id_str": "1184115229342482432",
+                    "indices": [
+                        272,
+                        295
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EG7ShwIWwAAGJqe.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EG7ShwIWwAAGJqe.jpg",
+                    "url": "https://t.co/c849WHH5KZ",
+                    "display_url": "pic.twitter.com/c849WHH5KZ",
+                    "expanded_url": "https://twitter.com/promediahomes/status/1184115236967550976/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 544,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 819,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 819,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "ca"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1039419201302274048,
+            "id_str": "1039419201302274048"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ca"
+    },
+    {
+        "created_at": "Sun Oct 13 08:24:43 +0000 2019",
+        "id": 1183297501832470528,
+        "id_str": "1183297501832470528",
+        "full_text": "Pucha kaya pala biglang mahal bg celine nato gawa bi Lisa? Secondhand kanina nakita ko almost Dame design halos maitim na rabk C nada 15,000 pesos pa https://t.co/eNR3u0svuy",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            149
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/eNR3u0svuy",
+                    "expanded_url": "https://twitter.com/marcinareus02/status/1183237176043028481",
+                    "display_url": "twitter.com/marcinareus02/…",
+                    "indices": [
+                        150,
+                        173
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "tl",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3317691613,
+            "id_str": "3317691613"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1183237176043028481,
+        "quoted_status_id_str": "1183237176043028481",
+        "quoted_status": {
+            "created_at": "Sun Oct 13 04:25:00 +0000 2019",
+            "id": 1183237176043028481,
+            "id_str": "1183237176043028481",
+            "full_text": "Uhm, @aldenrichards02 lahat talaga ni-like? Just enjoy fanboying, dude. She really is lovely ❤\n\nAnd before y'all drop the C word, the only things that Alden chases after are his dreams and passions. https://t.co/j7ZPB0SIqI",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                198
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "aldenrichards02",
+                        "name": "Alden Richards",
+                        "id": 98310564,
+                        "id_str": "98310564",
+                        "indices": [
+                            5,
+                            21
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1183237109810790400,
+                        "id_str": "1183237109810790400",
+                        "indices": [
+                            199,
+                            222
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EGuz4d9VAAAqzLG.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EGuz4d9VAAAqzLG.jpg",
+                        "url": "https://t.co/j7ZPB0SIqI",
+                        "display_url": "pic.twitter.com/j7ZPB0SIqI",
+                        "expanded_url": "https://twitter.com/marcinareus02/status/1183237176043028481/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 691,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 810,
+                                "h": 1407,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 391,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1183237109810790400,
+                        "id_str": "1183237109810790400",
+                        "indices": [
+                            199,
+                            222
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EGuz4d9VAAAqzLG.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EGuz4d9VAAAqzLG.jpg",
+                        "url": "https://t.co/j7ZPB0SIqI",
+                        "display_url": "pic.twitter.com/j7ZPB0SIqI",
+                        "expanded_url": "https://twitter.com/marcinareus02/status/1183237176043028481/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 691,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 810,
+                                "h": 1407,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 391,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1183237129582739456,
+                        "id_str": "1183237129582739456",
+                        "indices": [
+                            199,
+                            222
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EGuz5nnVAAAWayH.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EGuz5nnVAAAWayH.jpg",
+                        "url": "https://t.co/j7ZPB0SIqI",
+                        "display_url": "pic.twitter.com/j7ZPB0SIqI",
+                        "expanded_url": "https://twitter.com/marcinareus02/status/1183237176043028481/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 866,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 491,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1079,
+                                "h": 1495,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1183237150319362050,
+                        "id_str": "1183237150319362050",
+                        "indices": [
+                            199,
+                            222
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EGuz603UwAIg-Nf.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EGuz603UwAIg-Nf.jpg",
+                        "url": "https://t.co/j7ZPB0SIqI",
+                        "display_url": "pic.twitter.com/j7ZPB0SIqI",
+                        "expanded_url": "https://twitter.com/marcinareus02/status/1183237176043028481/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1691,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 766,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 434,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "tl",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1155034816573632512,
+                "id_str": "1155034816573632512"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 59,
+            "favorite_count": 162,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "lang": "tl"
+    },
+    {
+        "created_at": "Fri Oct 11 19:36:48 +0000 2019",
+        "id": 1182741861166923777,
+        "id_str": "1182741861166923777",
+        "full_text": "After contemplating on getting Pokémon Sword because the design of Zacian is the best looking new mon imo, I will get get it.\n\nHowever, only secondhand.\n\nI still don't support the business decision of taking away the ability to have whatever Pokémon you want in your party.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            273
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3618080414,
+            "id_str": "3618080414"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Oct 11 13:56:10 +0000 2019",
+        "id": 1182656138887782401,
+        "id_str": "1182656138887782401",
+        "full_text": "RT @cotswoldfine: 9ct Gold Diamond Eternity, such a beautiful subtle design, only £595, available now at \nhttps://t.co/MnckiGALik \n#jewelle…",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "cotswoldfine",
+                    "name": "CFJG",
+                    "id": 803574614668541955,
+                    "id_str": "803574614668541955",
+                    "indices": [
+                        3,
+                        16
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/MnckiGALik",
+                    "expanded_url": "http://cotswoldfinejewellery.co.uk",
+                    "display_url": "cotswoldfinejewellery.co.uk",
+                    "indices": [
+                        106,
+                        129
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 984131005564047361,
+            "id_str": "984131005564047361"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Oct 03 14:07:10 +0000 2019",
+            "id": 1179759804400701442,
+            "id_str": "1179759804400701442",
+            "full_text": "9ct Gold Diamond Eternity, such a beautiful subtle design, only £595, available now at \nhttps://t.co/MnckiGALik \n#jewellers #preowned #preloved #secondhand #gem #diamonds #beauty #gold   #engagementring #antique #vintage #bridal #giftsforher #sale #wedding #gems #diamond https://t.co/vWRbeXTSB6",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                271
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "jewellers",
+                        "indices": [
+                            113,
+                            123
+                        ]
+                    },
+                    {
+                        "text": "preowned",
+                        "indices": [
+                            124,
+                            133
+                        ]
+                    },
+                    {
+                        "text": "preloved",
+                        "indices": [
+                            134,
+                            143
+                        ]
+                    },
+                    {
+                        "text": "secondhand",
+                        "indices": [
+                            144,
+                            155
+                        ]
+                    },
+                    {
+                        "text": "gem",
+                        "indices": [
+                            156,
+                            160
+                        ]
+                    },
+                    {
+                        "text": "diamonds",
+                        "indices": [
+                            161,
+                            170
+                        ]
+                    },
+                    {
+                        "text": "beauty",
+                        "indices": [
+                            171,
+                            178
+                        ]
+                    },
+                    {
+                        "text": "gold",
+                        "indices": [
+                            179,
+                            184
+                        ]
+                    },
+                    {
+                        "text": "engagementring",
+                        "indices": [
+                            187,
+                            202
+                        ]
+                    },
+                    {
+                        "text": "antique",
+                        "indices": [
+                            203,
+                            211
+                        ]
+                    },
+                    {
+                        "text": "vintage",
+                        "indices": [
+                            212,
+                            220
+                        ]
+                    },
+                    {
+                        "text": "bridal",
+                        "indices": [
+                            221,
+                            228
+                        ]
+                    },
+                    {
+                        "text": "giftsforher",
+                        "indices": [
+                            229,
+                            241
+                        ]
+                    },
+                    {
+                        "text": "sale",
+                        "indices": [
+                            242,
+                            247
+                        ]
+                    },
+                    {
+                        "text": "wedding",
+                        "indices": [
+                            248,
+                            256
+                        ]
+                    },
+                    {
+                        "text": "gems",
+                        "indices": [
+                            257,
+                            262
+                        ]
+                    },
+                    {
+                        "text": "diamond",
+                        "indices": [
+                            263,
+                            271
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/MnckiGALik",
+                        "expanded_url": "http://cotswoldfinejewellery.co.uk",
+                        "display_url": "cotswoldfinejewellery.co.uk",
+                        "indices": [
+                            88,
+                            111
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1179759802832101376,
+                        "id_str": "1179759802832101376",
+                        "indices": [
+                            272,
+                            295
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EF9ZSkAXoAAgrjF.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EF9ZSkAXoAAgrjF.jpg",
+                        "url": "https://t.co/vWRbeXTSB6",
+                        "display_url": "pic.twitter.com/vWRbeXTSB6",
+                        "expanded_url": "https://twitter.com/cotswoldfine/status/1179759804400701442/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 900,
+                                "h": 900,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 900,
+                                "h": 900,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1179759802832101376,
+                        "id_str": "1179759802832101376",
+                        "indices": [
+                            272,
+                            295
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EF9ZSkAXoAAgrjF.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EF9ZSkAXoAAgrjF.jpg",
+                        "url": "https://t.co/vWRbeXTSB6",
+                        "display_url": "pic.twitter.com/vWRbeXTSB6",
+                        "expanded_url": "https://twitter.com/cotswoldfine/status/1179759804400701442/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 900,
+                                "h": 900,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 900,
+                                "h": 900,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1179759802827919360,
+                        "id_str": "1179759802827919360",
+                        "indices": [
+                            272,
+                            295
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EF9ZSj_X0AAXhS-.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EF9ZSj_X0AAXhS-.jpg",
+                        "url": "https://t.co/vWRbeXTSB6",
+                        "display_url": "pic.twitter.com/vWRbeXTSB6",
+                        "expanded_url": "https://twitter.com/cotswoldfine/status/1179759804400701442/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 900,
+                                "h": 900,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 900,
+                                "h": 900,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1179759801561157632,
+                        "id_str": "1179759801561157632",
+                        "indices": [
+                            272,
+                            295
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EF9ZSfRWkAAmKpT.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EF9ZSfRWkAAmKpT.jpg",
+                        "url": "https://t.co/vWRbeXTSB6",
+                        "display_url": "pic.twitter.com/vWRbeXTSB6",
+                        "expanded_url": "https://twitter.com/cotswoldfine/status/1179759804400701442/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 900,
+                                "h": 900,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 900,
+                                "h": 900,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 803574614668541955,
+                "id_str": "803574614668541955"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Oct 11 10:08:14 +0000 2019",
+        "id": 1182598777326227457,
+        "id_str": "1182598777326227457",
+        "full_text": "@SWRetroComp @BinaryDinosaurs @ElectronForever @HereBeDragons3 @Supmsx @Devilish_Design @ColonelFalcon @AfRetro @billysastard1 @Retro_Computers @80sNostalgia Keep Dragon for 6809 processor\n\nGift MSX for early NES protype games\n\nDelete it'll cost less buying a real Beeb secondhand",
+        "truncated": false,
+        "display_text_range": [
+            158,
+            280
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "SWRetroComp",
+                    "name": "South West Retro Computing Archive",
+                    "id": 1017782206067019777,
+                    "id_str": "1017782206067019777",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "BinaryDinosaurs",
+                    "name": "Binary Dinosaurs",
+                    "id": 835148493576601602,
+                    "id_str": "835148493576601602",
+                    "indices": [
+                        13,
+                        29
+                    ]
+                },
+                {
+                    "screen_name": "ElectronForever",
+                    "name": "Electron Forever",
+                    "id": 939635102530834432,
+                    "id_str": "939635102530834432",
+                    "indices": [
+                        30,
+                        46
+                    ]
+                },
+                {
+                    "screen_name": "HereBeDragons3",
+                    "name": "Here Be Dragons",
+                    "id": 1041315435394719745,
+                    "id_str": "1041315435394719745",
+                    "indices": [
+                        47,
+                        62
+                    ]
+                },
+                {
+                    "screen_name": "Supmsx",
+                    "name": "MSX World",
+                    "id": 413087560,
+                    "id_str": "413087560",
+                    "indices": [
+                        63,
+                        70
+                    ]
+                },
+                {
+                    "screen_name": "Devilish_Design",
+                    "name": "Dave Williams",
+                    "id": 796478884556382208,
+                    "id_str": "796478884556382208",
+                    "indices": [
+                        71,
+                        87
+                    ]
+                },
+                {
+                    "screen_name": "ColonelFalcon",
+                    "name": "🎃👻ᄃӨЦПƬ FΛᄂᄃӨП👻🎃",
+                    "id": 3256686527,
+                    "id_str": "3256686527",
+                    "indices": [
+                        88,
+                        102
+                    ]
+                },
+                {
+                    "screen_name": "AfRetro",
+                    "name": "AF",
+                    "id": 772179633089474562,
+                    "id_str": "772179633089474562",
+                    "indices": [
+                        103,
+                        111
+                    ]
+                },
+                {
+                    "screen_name": "billysastard1",
+                    "name": "billy sastard",
+                    "id": 995350171,
+                    "id_str": "995350171",
+                    "indices": [
+                        112,
+                        126
+                    ]
+                },
+                {
+                    "screen_name": "Retro_Computers",
+                    "name": "Retro Computers",
+                    "id": 318388605,
+                    "id_str": "318388605",
+                    "indices": [
+                        127,
+                        143
+                    ]
+                },
+                {
+                    "screen_name": "80sNostalgia",
+                    "name": "80sNostalgia #PLAYExpoBlackpool",
+                    "id": 80823716,
+                    "id_str": "80823716",
+                    "indices": [
+                        144,
+                        157
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1182577263314980864,
+        "in_reply_to_status_id_str": "1182577263314980864",
+        "in_reply_to_user_id": 1017782206067019777,
+        "in_reply_to_user_id_str": "1017782206067019777",
+        "in_reply_to_screen_name": "SWRetroComp",
+        "user": {
+            "id": 1147057007977029632,
+            "id_str": "1147057007977029632"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }
+]
